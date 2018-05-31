@@ -2,7 +2,7 @@
 
  >Ride from/to Airport - 23EURO per ride
  
- >120-Hour Budapest Card 63EURO
+ >120-Hour Budapest Card - 63EURO
  
  >https://www.budapestbylocals.com/product/120-hour-budapest-card/
  
