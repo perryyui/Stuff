@@ -22,9 +22,9 @@ from Budapest-Nyugati, Budapest-Keleti
 ### Szentendre:
 HEV - 600-650HUF
 
-40-50mins - suburban railway (H├ëV in Hungarian)
+40-50mins - suburban railway (HÉV in Hungarian)
 
-from Batthy├íny t├⌐r (M2 metro line, Batthy├íny t├⌐r station).
+from Batthyány tér (M2 metro line, Batthyány tér station).
 
 ### Szechenyi Spa Baths:
 Ticket with Lockcer (Weekdays/Weekend) - 5500/5700HUF
