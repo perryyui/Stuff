@@ -14,12 +14,16 @@
 
 ### Eger:
 Coach - 2900HUF - 1:40hrs
+
 Train - 2725-3025HUF - 2:10hrs
+
 from Budapest-Nyugati, Budapest-Keleti
 
 ### Szentendre:
 HEV - 600-650HUF
+
 40-50mins - suburban railway (H├ëV in Hungarian)
+
 from Batthy├íny t├⌐r (M2 metro line, Batthy├íny t├⌐r station).
 
 ### Szechenyi Spa Baths:
